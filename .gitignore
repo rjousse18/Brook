@@ -1,0 +1,18 @@
+# Output files
+working_channels.txt
+broken_channels.txt
+validated_playlist.m3u
+chaines_ok.txt
+chaines_ko.txt
+working_channels_fr.m3u
+
+# Test playlists (keep examples if needed)
+*.m3u
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+*test.sh
